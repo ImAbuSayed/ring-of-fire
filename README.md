@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ring-of-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ring of Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ring-of-fire/) |
+| **Get License** | [Obtain a Music License for Ring of Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ring-of-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught you looking from the edge of the room
+> There's a spark in the dark and it's starting to bloom
+> Come a little closer, let the tension rise
+> I can see the beautiful danger in your eyes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
