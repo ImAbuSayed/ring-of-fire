@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ring-of-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ring of Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ring-of-fire/) |
+| **Get License** | [Secure Licensing Rights for Ring of Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ring-of-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ce74d4c9d8b3365271909725cb50f4b264d472f071b120fddcd88a2ba6899c51` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
